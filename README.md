@@ -12,5 +12,7 @@ Use Cases
 GraphQL: Ideal for applications with complex data requirements, real-time updates, and where performance optimization is critical. Suitable for front-end applications needing flexibility and efficiency in data fetching.
 ________________________________________________
 Run the above project as : mvn spring-boot:run
+
+
 Sample output: <img width="924" alt="image" src="https://github.com/vireshnavalli/graphqldemo/assets/26489144/64bdc698-c9e9-4a76-9108-04adbc0867b7">
 
