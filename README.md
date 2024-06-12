@@ -5,7 +5,6 @@ This is hands-on project done to showcase capabilities of GraphQL over REST API.
 4. Strongly Typed Schema : Defines a strongly-typed schema using a type system. This ensures that clients know exactly what data is available and the types of that data.
 5. Tooling and Ecosystem : Offers a rich ecosystem of tools for schema validation, query testing, and API documentation (e.g., GraphiQL, Apollo).
 6. Versioning: Avoids the need for versioning by allowing clients to request the exact fields they need. Changes to the schema can be additive and backward-compatible.
-REST: Often relies on versioned endpoints (e.g., /api/v1/resource) to manage changes, which can lead to maintenance overhead.
 7. Real-time Data: Supports real-time data updates with subscriptions. This is useful for applications that need to reflect live data changes (e.g., chat applications, live sports scores).
 8. Developer Experience: Improves developer experience by providing clear and precise API interactions. The self-documenting nature of GraphQL schemas and tools like GraphQL enable easier debugging and faster development.
 
